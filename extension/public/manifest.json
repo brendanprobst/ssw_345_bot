@@ -1,0 +1,15 @@
+{
+  "name": "SSW 345 Bot",
+  "description": "Formalize your speech or writing, ready to be used in any professional context!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup"
+  },
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo192.png"
+  }
+}
